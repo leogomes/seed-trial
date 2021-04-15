@@ -1,12 +1,12 @@
 # Go Repository Template
 
-[![GitHub Release](https://img.shields.io/github/v/release/golang-templates/seed)](https://github.com/golang-templates/seed/releases)
-[![Go Reference](https://pkg.go.dev/badge/github.com/golang-templates/seed.svg)](https://pkg.go.dev/github.com/golang-templates/seed)
-[![go.mod](https://img.shields.io/github/go-mod/go-version/golang-templates/seed)](go.mod)
-[![LICENSE](https://img.shields.io/github/license/golang-templates/seed)](LICENSE)
-[![Build Status](https://img.shields.io/github/workflow/status/golang-templates/seed/build)](https://github.com/golang-templates/seed/actions?query=workflow%3Abuild+branch%3Amain)
-[![Go Report Card](https://goreportcard.com/badge/github.com/golang-templates/seed)](https://goreportcard.com/report/github.com/golang-templates/seed)
-[![Codecov](https://codecov.io/gh/golang-templates/seed/branch/main/graph/badge.svg)](https://codecov.io/gh/golang-templates/seed)
+[![GitHub Release](https://img.shields.io/github/v/release/leogomes/seed-trial)](https://github.com/leogomes/seed-trial/releases)
+[![Go Reference](https://pkg.go.dev/badge/github.com/leogomes/seed-trial.svg)](https://pkg.go.dev/github.com/leogomes/seed-trial)
+[![go.mod](https://img.shields.io/github/go-mod/go-version/leogomes/seed-trial)](go.mod)
+[![LICENSE](https://img.shields.io/github/license/leogomes/seed-trial)](LICENSE)
+[![Build Status](https://img.shields.io/github/workflow/status/leogomes/seed-trial/build)](https://github.com/leogomes/seed-trial/actions?query=workflow%3Abuild+branch%3Amain)
+[![Go Report Card](https://goreportcard.com/badge/github.com/leogomes/seed-trial)](https://goreportcard.com/report/github.com/leogomes/seed-trial)
+[![Codecov](https://codecov.io/gh/leogomes/seed-trial/branch/main/graph/badge.svg)](https://codecov.io/gh/leogomes/seed-trial)
 
 This is a GitHub repository template for Go. It has been created for ease-of-use for anyone who wants to:
 
@@ -34,7 +34,7 @@ It includes:
 
 1. Sign up on [Codecov](https://codecov.io/) and configure [Codecov GitHub Application](https://github.com/apps/codecov) for all repositories.
 1. Click the `Use this template` button (alt. clone or download this repository).
-1. Replace all occurences of `golang-templates/seed` to `your_org/repo_name` in all files.
+1. Replace all occurences of `leogomes/seed-trial` to `your_org/repo_name` in all files.
 1. Rename folder `cmd/seed` to `cmd/app_name` and update [.goreleaser.yml](.goreleaser.yml) accordingly.
 1. Update [LICENSE](LICENSE) and [README.md](README.md).
 
